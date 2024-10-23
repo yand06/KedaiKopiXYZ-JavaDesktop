@@ -214,6 +214,8 @@ Contributions are always welcome. Please follow the standard steps:
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Contact
-ABC Coffee Shop - kedaikopibc@gmail.com
-Project Link : [https://github.com/username/kedai-kopi-abc](https://github.com/username/kedai-kopi-abc)
+## 👤 Dibuat Oleh
+
+**Supriyandi La Awe (Yand)**
+- GitHub: [@yand06](https://github.com/yand06)
+- Email : supriyandilaawe@gmail.com
