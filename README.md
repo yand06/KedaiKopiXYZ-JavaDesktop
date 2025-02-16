@@ -143,66 +143,6 @@ mysql -u username -p kedaikopi < database/kedaikopi.sql
 - Pembayaran Report
 - Export ke PDF
 
-
-## 📑 Project Structure
-```
-TransaksiKedaiKopiXYZ/
-├── Source Packages/
-│   ├── Custom/
-│   │   ├── BackgroundHome.java
-│   │   ├── Button.java
-│   │   ├── CenteredMenuUi.java
-│   │   ├── CustomMenuBarUi.java
-│   │   ├── LoginBerhasil.java
-│   │   ├── Panel.java
-│   │   └── bgAbout.java
-│   ├── Form/
-│   │   ├── About.java
-│   │   ├── Barang.java
-│   │   ├── BarangCoba.java
-│   │   ├── Home.java
-│   │   ├── Menu.java
-│   │   ├── Pegawai.java
-│   │   ├── Pelanggan.java
-│   │   ├── Pembayaran.java
-│   │   ├── Pesan.java
-│   │   ├── ReportDaftarMenu.java
-│   │   ├── ReportDataBarang.java
-│   │   ├── ReportDataPelanggan.java
-│   │   ├── ReportPembayaran.java
-│   │   └── ReportPelanggan.java
-│   ├── Laporan/
-│   │   ├── BarangReport.jasper
-│   │   ├── BarangReport.jrxml
-│   │   ├── MenuReport.jasper
-│   │   ├── MenuReport.jrxml
-│   │   ├── PelangganReport.jasper
-│   │   ├── PelangganReport.jrxml
-│   │   ├── PembayaranReport.jasper
-│   │   └── PembayaranReport.jrxml
-│   ├── Main/
-│   │   ├── Login.java
-│   │   ├── Register.java
-│   │   └── bg.java
-│   ├── img/
-│   └── koneksi/
-│       └── koneksi.java
-├── Test Packages/
-├── Libraries/
-│   ├── AbsoluteLayout.jar
-│   ├── MySQL JDBC Driver - mysql-connector.jar
-│   ├── Tanggal - JCalendar.jar
-│   ├── commons-beanutils-1.8.2.jar
-│   ├── commons-collections-3.2.1.jar
-│   ├── commons-digester-2.1.jar
-│   ├── commons-javaflow-20060411.jar
-│   ├── commons-logging-1.1.jar
-│   ├── groovy-all-1.7.5.jar
-│   ├── jasperreports-5.0.0.jar
-│   └── JDK 1.8 (Default)
-└── Test Libraries/
-```
-
 ## 🤝 Contributions
 Contributions are always welcome. Please follow the standard steps:
 1. Fork this project
@@ -210,12 +150,3 @@ Contributions are always welcome. Please follow the standard steps:
 3. Commit your changes (`git commit -m 'Added new feature'`)
 4. Push to the branch (`git push origin feature/FeatureNew`)
 5. Open Pull Request
-
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Dibuat Oleh
-
-**Supriyandi La Awe (Yand)**
-- GitHub: [@yand06](https://github.com/yand06)
-- Email : supriyandilaawe@gmail.com
